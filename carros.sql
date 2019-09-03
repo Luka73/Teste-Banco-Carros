@@ -1,7 +1,7 @@
 insert into CARROS values (null, 'SIENA', 30.000, 2015, 'FIAT');
 insert into CARROS values (null, 'PALIO', 22.900, 2012, 'FIAT');
 insert into CARROS values (null, 'UNO', 7.800, 2000, 'FIAT');
-insert into CARROS values (null, 'LOGAN', 12.990, 2011, 'RENAULT');
+insert into CARROS values (null, 'LOGAN', 12.990, 2019, 'RENAULT');
 insert into CARROS values (null, 'CELTA', 13.990, 2009, 'CHEVROLET');
 insert into CARROS values (null, 'FIESTA', 36.500, 2015, 'FORD');
 insert into CARROS values (null, 'MERIVA', 25.900, 2012, 'CHEVROLET');
